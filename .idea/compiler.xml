@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="websocket-test" target="1.8" />
       <module name="websocketTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
